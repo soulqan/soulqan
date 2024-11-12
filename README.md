@@ -34,7 +34,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=soulqan&show_icons=true&theme=radical" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api?username=soulqan&show_icons=true&theme=radical&include_all_commits=true" width="100%">
             </td>
             <td>
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soulqan&theme=tokyonight&hide_border=true" width="100%">
